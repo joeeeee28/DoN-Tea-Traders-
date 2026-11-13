@@ -1,0 +1,6 @@
+{
+  "name": "DON TRADERS",
+  "description": "DON TRADERS – Indian private-label tea brand offering carefully selected CTC, dust, Assam, leaf, and masala teas for households and wholesale buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
